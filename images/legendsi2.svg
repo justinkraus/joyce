@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 630 720" style="enable-background:new 0 0 630 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Arial-ItalicMT';}
+	.st3{font-size:35.1919px;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:19.9738px;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:15.2181px;}
+	.st9{fill:none;stroke:#000000;stroke-width:0.6667;stroke-miterlimit:8;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#FFB2D9;stroke:#E7E6E6;stroke-width:1.3333;stroke-miterlimit:8;}
+	.st11{font-size:18.0715px;}
+	.st12{font-size:12.3647px;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#76ECA5;stroke:#E7E6E6;stroke-width:1.3333;stroke-miterlimit:8;}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#FFC569;stroke:#E7E6E6;stroke-width:1.3333;stroke-miterlimit:8;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-2.6" width="632.6" height="720"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect class="st1" width="630" height="720"/>
+		<text transform="matrix(1 0 0 1 188.9998 72)" class="st2 st3">Ulysses</text>
+		<text transform="matrix(1 0 0 1 323.9997 72)" class="st4 st3">Connected</text>
+		<text transform="matrix(1 0 0 1 257.1364 159.8848)" class="st5 st6">Visual Guide</text>
+		<text transform="matrix(1 0 0 1 153.0002 189)" class="st7 st8">Each word represents a reference made in </text>
+		<text transform="matrix(1 0 0 1 443.4904 189)" class="st2 st8">Ulysses</text>
+		<text transform="matrix(1 0 0 1 314.9142 219.8062)" class="st7 st8">-</text>
+		<text transform="matrix(1 0 0 1 177.4567 249.291)" class="st7 st8">Larger words were referenced more often</text>
+		<text transform="matrix(1 0 0 1 314.9142 277.8252)" class="st7 st8">-</text>
+		<text transform="matrix(1 0 0 1 130.3998 307.3101)" class="st7 st8">Clusters represent references frequently made together</text>
+		<text transform="matrix(1 0 0 1 314.9142 335.8442)" class="st7 st8">-</text>
+		<text transform="matrix(1 0 0 1 242.9999 369)" class="st5 st6">Color Categories</text>
+		<text transform="matrix(1 0 0 1 57.2191 111.1958)" class="st7 st8">A Recontextualization of James Joyce’s </text>
+		<text transform="matrix(1 0 0 1 329.2191 111.1958)" class="st2 st8">Ulysses </text>
+		<text transform="matrix(1 0 0 1 390.2188 111.1958)" class="st7 st8">by references within the novel.</text>
+		<path class="st9" d="M9.3,120.4h616.3"/>
+		<path class="st10" d="M64.9,394c0-4.6,3.7-8.2,8.2-8.2h488.6c4.6,0,8.2,3.7,8.2,8.2v33c0,4.6-3.7,8.2-8.2,8.2H73.2
+			c-4.6,0-8.2-3.7-8.2-8.2V394z"/>
+		<text transform="matrix(1 0 0 1 246.8696 407.1787)" class="st7 st11">Dublin &amp; Ireland</text>
+		<text transform="matrix(1 0 0 1 83.5536 424.2998)" class="st7 st12">Landforms and buildings of Dublin / Irish cultural history, customs / Cultural ephemera</text>
+		<path class="st13" d="M64.9,461.6c0-4.6,3.7-8.2,8.2-8.2h488.6c4.6,0,8.2,3.7,8.2,8.2v33c0,4.6-3.7,8.2-8.2,8.2H73.2
+			c-4.6,0-8.2-3.7-8.2-8.2V461.6z"/>
+		<text transform="matrix(1 0 0 1 210.9692 475.6611)" class="st7 st11">Literature &amp; Performances</text>
+		<text transform="matrix(1 0 0 1 154.5668 492.7812)" class="st7 st12">Allusions to published texts / Songs and musical references</text>
+		<path class="st14" d="M64.9,529.1c0-4.6,3.7-8.2,8.2-8.2h488.6c4.6,0,8.2,3.7,8.2,8.2v33c0,4.6-3.7,8.2-8.2,8.2H73.2
+			c-4.6,0-8.2-3.7-8.2-8.2V529.1z"/>
+		<text transform="matrix(1 0 0 1 223.3034 543.1914)" class="st7 st11">The Body &amp; The Writer</text>
+		<text transform="matrix(1 0 0 1 94.5456 560.3115)" class="st7 st12">Anatomical, physiological, emotional / Joyce’s writing and personal incorporations</text>
+	</g>
+</g>
+</svg>
