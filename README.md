@@ -29,10 +29,10 @@ In this version large groups represent a chapter, small circles represent a note
 The chord diagram builds on the earlier version where the perimeter illustrates notes by chapter. Lines do a better job at indicating where certain chapters might share content but it is still not very revealing due to the high number of notes.
 #### Final
 The final visualization revisits how nodes and edges are created. Each note is connected to another when they occur within the same chapter, stronger weights are assigned to notes that occur in chapters together more often. This snippet of the dataset shows the notes that occur most frequently together.
-<img src="/images/notes_table1.png" height="40%" width="60%">
+<img src="/images/notes_table1.png" height="25%" width="50%">
 
 Based on these connections Gephi was able to provide modularity clustering which separated the nodes into five distinct groups as shown in the final visual.
-<img src="/images/uc_iter3.png" height="25%" width="50%">
+<img src="/images/uc_iter3.png" height="40%" width="60%">
 
 #### Future Thoughts
 Patterns between which notes occur with other notes could be improved if groupings smaller than chapters were established. Chapter groupings are too broad, smaller groups would enable more clusters that are consistently referenced with each other.
