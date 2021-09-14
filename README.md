@@ -15,24 +15,28 @@ Note text was scraped from The Joyce Project with additional categorial informat
 [Cleanup](/nongephi/01_Data/03_note_cleanup.py)  
 Data was aggregated into a single table that includes all available information, a portion is shown here:
 
-<img src="/images/notes_table.png" height="25%" width="50%">
+<img src="/images/notes_table.png" height="35%" width="50%">
 
 Chapters and the references made to each other were [connected using the following script](/nongephi/01_Data/04_edges.py) in order to visualize this information in Gephi.
 
 ### Visualization
 #### Initial Iterations
 Earlier iterations focused on showing how the notes (nodes) contained within each chapter linked to other chapters (edges). However due to the large number of notes and repetition of notes (aka many lines) it became difficult to extract meaning.
+
 <img src="/images/uc_iter1.png" height="40%" width="60%">
 
 In this version large groups represent a chapter, small circles represent a note, colors represent the note theme. Small patterns can be seen but it doesn't reveal meaningful insight.
+
 <img src="/images/uc_iter2.png" height="40%" width="60%">
 
 The chord diagram builds on the earlier version where the perimeter illustrates notes by chapter. Lines do a better job at indicating where certain chapters might share content but it is still not very revealing due to the high number of notes.
 #### Final
 The final visualization revisits how nodes and edges are created. Each note is connected to another when they occur within the same chapter, stronger weights are assigned to notes that occur in chapters together more often. This snippet of the dataset shows the notes that occur most frequently together.
+
 <img src="/images/notes_table1.png" height="25%" width="40%">
 
 Based on these connections Gephi was able to provide modularity clustering which separated the nodes into five distinct groups as shown in the final visual.
+
 <img src="/images/uc_iter3.png" height="40%" width="60%">
 
 #### Future Thoughts
