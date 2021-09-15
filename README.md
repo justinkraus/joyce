@@ -1,5 +1,5 @@
 # Ulysses Connected
-### Clustering the references in *Ulysses* by appearances together.
+### Clustering the references in *Ulysses* by appearances together to identify previously unnconnected themes.
 
 ## Overview
 References to external thoughts and ideas are a central component of the classic novel *Ulysses*. In order for modern grasp the novel in its entirety a companion guide is often necessary to provide supplementary detail about the references whose topics focus on literary, physical descriptions of Dublin, and personal incorporations. 
@@ -40,4 +40,4 @@ Based on these connections Gephi was able to provide modularity clustering which
 <img src="/images/uc_iter3.png" height="40%" width="60%">
 
 #### Future Thoughts
-Patterns between which notes occur with other notes could be improved if groupings smaller than chapters were established. Chapter groupings are too broad, smaller groups would enable more clusters that are consistently referenced with each other.
+I consider this somewhat unfinished as patterns between which notes occur with other notes could be improved if groupings smaller than chapters were established. Chapter groupings are too broad, smaller groups would enable more clusters that are consistently referenced with each other.
